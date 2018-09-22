@@ -1,5 +1,4 @@
 <?php
-
 namespace Gloudemans\Shoppingcart;
 
 use Illuminate\Contracts\Support\Arrayable;
